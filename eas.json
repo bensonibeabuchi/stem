@@ -16,6 +16,12 @@
     }
   },
   "submit": {
-    "production": {}
+    "production": {
+      "ios": {
+        "appleId": "ibeabuchibenson@gmail.com",
+        "ascAppId": "6738880716",
+        "appleTeamId": "43A97357UY"
+      }
+    }
   }
 }
